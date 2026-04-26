@@ -59,6 +59,11 @@ Primitive types are the basic building blocks of Flexa programs. They include:
    - Example:
      ```flexa
      var message: string = "Welcome to Flexa!";
+	 var multiline_string = `
+	 This is a multiline string!
+	 We can also have interpolated expressions by using \${}.
+	 So we can say: ${message}
+	 `;
      ```
 
 ---
@@ -118,7 +123,7 @@ Composite types are used to group multiple values together. They include:
         self.model = model;
        }
        fun drive() {
-        return true;
+        return "driving";
        }
      };
 

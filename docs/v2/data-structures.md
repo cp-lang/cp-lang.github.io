@@ -242,4 +242,4 @@ Now that you understand how to work with arrays and structs, it's time to learn 
 
 ---
 
-[← Back to Functions](functions) | [Next: Error Handling →](error-handling)
+[← Back to Classes](objects) | [Next: Error Handling →](error-handling)

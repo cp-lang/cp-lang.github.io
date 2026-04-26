@@ -241,4 +241,4 @@ Now that you understand how to work with functions, it's time to explore **data 
 
 ---
 
-[← Back to Control Structures](control-structures) | [Next: Data Structures →](data-structures)
+[← Back to Control Structures](control-structures) | [Next: Classes →](classes)
