@@ -26,7 +26,7 @@ fun greet(name: string): void {
 }
 ```
 
-### Notes
+### 📝 Notes
 
 * **Specifying parameter and return types is not mandatory**.
 * **If the return type is not specified but the function contains a `return` statement, the return type is inferred as `any`**.

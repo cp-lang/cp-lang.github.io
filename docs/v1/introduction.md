@@ -1,18 +1,18 @@
 # Introduction to Flexa
 
-Welcome to the **Flexa Programming Language**! Flexa is a toy programming language developed for fun. This language is designed with everything I find interesting in other programming languages ​​I know.
+Welcome to the **Flexa Programming Language**! Flexa is a toy scripting language developed for fun.
 
 ---
 
 ## What is Flexa?
 
-Flexa is a statically-typed, general-purpose language that emphasizes simplicity, readability, and flexibility. It combines the best features of modern programming languages with a clean and intuitive syntax, making it easy to learn and use.
+Flexa is a statically-typed, general-purpose scripting language that emphasizes simplicity, readability, and flexibility. It combines the best features of modern programming languages with a clean and intuitive syntax, making it easy to learn and use.
 
 ### Key Features
-- **Simple and Clean Syntax**: Flexa's syntax try to be easy to read and write, reducing the cognitive load on developers.
+- **Simple and Clean Syntax**: Flexa's syntax is designed to be easy to read and write, reducing the cognitive load on developers.
 - **Strong Typing with Type Inference**: Flexa ensures type safety while allowing you to omit type declarations when the type can be inferred.
-- **Standard Library**: Flexa comes with a small set of built-in libraries for tasks like file handling, networking, data manipulation, and more.
-- **Cross-Platform**: Flexa programs can run on multiple platforms (Windows and Linux for now) without modification, thanks to its portable runtime.
+- **Standard Library**: Flexa comes with a comprehensive set of built-in libraries for tasks like file handling, networking, data manipulation, and more.
+- **Cross-Platform**: Flexa programs can run on multiple platforms without modification, thanks to its portable runtime.
 - **Extensible**: Flexa allows you to create and use custom libraries, making it highly adaptable to your specific needs.
 
 ---

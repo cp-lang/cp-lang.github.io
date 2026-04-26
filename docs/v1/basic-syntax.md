@@ -1,6 +1,6 @@
 # Basic Syntax
 
-In this section, we'll explore the basic syntax of the Flexa language. You'll learn about namespaces, variables, comments, and the fundamental structure of a Flexa program.
+In this section, we'll explore the basic syntax of the Flexa programming language. You'll learn about namespaces, variables, comments, and the fundamental structure of a Flexa program.
 
 ---
 
@@ -39,8 +39,8 @@ Flexa supports two types of comments:
 To use external libraries or modules, Flexa provides the `using` keyword. This allows you to include functionality from other files or libraries.
 
 ```flexa
-using flx.std.types; // Import the standard types library
-using my_libraries.utils; // Import a custom library
+using flx.std.types; // Import the console library
+using my_library.utils; // Import a custom library
 ```
 
 ---
@@ -83,7 +83,7 @@ var y = 20;      // Type inference, y is declared as any and value is inferred a
 Constants are declared using the `const` keyword and must be initialized with a value.
 
 ```flexa
-const PI: float = 3.1415; // Declare a constant
+const PI: float = 3.14; // Declare a constant
 ```
 
 ---

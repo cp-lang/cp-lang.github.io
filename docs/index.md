@@ -1,4 +1,4 @@
-# Docs Content
+# Docs Content Flexa v2
 
 The Flexa documentation is organized into sections, starting from the basics and progressing to advanced topics. Here's what you'll find:
 

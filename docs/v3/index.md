@@ -1,4 +1,4 @@
-# Docs Content
+# Docs Content Flexa v3
 
 The Flexa documentation is organized into sections, starting from the basics and progressing to advanced topics. Here's what you'll find:
 
@@ -9,13 +9,12 @@ The Flexa documentation is organized into sections, starting from the basics and
 5. [Variables and Constants](variables-and-constants): Learn how to declare and use variables and constants.
 6. [Control Structures](control-structures): Master conditionals, loops, and flow control.
 7. [Functions](function): Discover how to define and use functions in Flexa.
-8. [Classes](classes): Model more complex concepts than basic data structures, encapsulating state, behavior, and access control.
-9. [Data Structures](data-structures): Work with arrays, structs, and other data structures.
-10. [Error Handling](error-handling): Handle errors and exceptions gracefully.
-11. [Built-in Libraries](built-in-libraries): Explore the powerful libraries included with Flexa.
-12. [Built-in Functions](built-in-functions): Learn about the essential functions provided by Flexa.
-13. [Advanced Examples](advanced-xamples): See real-world examples of Flexa in action.
-14. [FAQ and Common Issues](faq-and-common-issues): Find answers to frequently asked questions.
-15. [Contributing](contributing): Learn how to contribute to the Flexa project.
+8. [Data Structures](data-structures): Work with arrays, structs, and other data structures.
+9. [Error Handling](error-handling): Handle errors and exceptions gracefully.
+10. [Built-in Libraries](built-in-libraries): Explore the powerful libraries included with Flexa.
+11. [Built-in Functions](built-in-functions): Learn about the essential functions provided by Flexa.
+12. [Advanced Examples](advanced-xamples): See real-world examples of Flexa in action.
+13. [FAQ and Common Issues](faq-and-common-issues): Find answers to frequently asked questions.
+14. [Contributing](contributing): Learn how to contribute to the Flexa project.
 
 Start your journey with Flexa by reading the [Introduction](introduction).

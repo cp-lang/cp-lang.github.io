@@ -126,6 +126,7 @@ println("Popped item: " + pop(stack)); // Output: 30
 println("Is stack empty? " + is_empty(stack)); // Output: false
 ```
 
+<!-- NOT IMPLEMENTED YET
 ---
 
 ## Example 4: Recursive Directory Traversal
@@ -137,7 +138,7 @@ using flx.core.files;
 using flx.core.console;
 
 fun list_files(directory: string): void {
-    var entries = list_dir(directory);
+    var entries = read_dir(directory);
     foreach (var entry in entries) {
         var path = directory + "/" + entry;
         if (is_dir(path)) {
@@ -151,6 +152,7 @@ fun list_files(directory: string): void {
 
 list_files(".");
 ```
+-->
 
 ---
 

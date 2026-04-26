@@ -57,7 +57,7 @@ Operate directly on binary representations of integers:
 | Operator | Description |
 | -------- | ----------- |
 | `&`      | Bitwise AND |
-| `|`     | Bitwise OR  |
+| `\|`     | Bitwise OR  |
 | `^`      | Bitwise XOR |
 | `~`      | Bitwise NOT |
 | `<<`     | Left shift  |
@@ -80,7 +80,7 @@ Used to assign values to variables:
 | `/%=`    | Floor division and assign |
 | `**=`    | Power and assign       |
 | `&=`     | Bitwise AND and assign |
-| `|=`    | Bitwise OR and assign  |
+| `\|=`    | Bitwise OR and assign  |
 | `^=`     | Bitwise XOR and assign |
 | `<<=`    | Left shift and assign  |
 | `>>=`    | Right shift and assign |
@@ -93,8 +93,21 @@ Shorthand for increasing or decreasing a value:
 
 | Operator | Description    |
 | -------- | -------------- |
-| `x++`     | Increment by 1 |
-| `x--`     | Decrement by 1 |
+| `++`     | Increment by 1 |
+| `--`     | Decrement by 1 |
+
+---
+
+## Value Reference Operators
+
+Used for referencing and dereferencing variables:
+
+| Operator | Description                           |
+| -------- | ------------------------------------- |
+| `ref`    | Get the original reference of a value |
+| `unref`  | Get a copy of a value                 |
+
+**Note:** struct type values are referenced by default.
 
 ---
 
